@@ -13,3 +13,5 @@ attachments
 *.log
 .DS_Store
 coverage
+.project_id
+.node_modules.lock
